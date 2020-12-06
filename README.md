@@ -1,6 +1,6 @@
 # google_books_search
 
-Click [here](https://burgerapplication123.herokuapp.com/) to open the deployed Heroku application.
+Click [here]() to open the deployed Heroku application.
 
 ![ScreenShot](\public\assets\img\demo.png)
 
